@@ -6,7 +6,7 @@ images/
 
 __pycache__/
 
-sudoku_solver
+sudoku_solver.py
 
-model
+model.py
 
