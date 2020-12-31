@@ -1,0 +1,12 @@
+.git
+
+.vscode
+
+images/
+
+__pycache__/
+
+sudoku_solver
+
+model
+
