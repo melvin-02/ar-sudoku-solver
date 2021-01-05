@@ -5,6 +5,6 @@ The AR sudoku solver looks for a sudoku puzzle in live video, solves the puzzle 
 ![Demo video](images/demo_.gif)  
 
 ## Instalation
-'''
+```
 pip install -r requirements.txt
-'''
+```
