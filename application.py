@@ -5,7 +5,7 @@ import pickle
 import math
 import time
 from sudoku_validator import isValidConfig
-from sudoku_solver import solve
+#from sudoku_solver import solve
 from solver import solve_wrapper
 
 #load the created model
