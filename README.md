@@ -1,2 +1,2 @@
 # AUGMENTED READLITY SUDOKU SOLVER  
-![Demo video](demo.gif)
+![Demo video](images/demo.gif)
