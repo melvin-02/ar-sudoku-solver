@@ -17,4 +17,6 @@ python application.py
 ## Example
 ![Demo video](images/demo_.gif)  
 
-
+## Limitations
+-Webcam solver cannot detect when a new puzzle has entered the frame, will try to warp the solution of the first puzzle it sees onto any subsequent puzzles
+-Cannot solve puzzles that don't have a distinguishable four-point outer border
