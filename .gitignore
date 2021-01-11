@@ -6,8 +6,6 @@ images/
 
 __pycache__/
 
-sudoku_solver.py
-
 model.py
 
 digitImages/
