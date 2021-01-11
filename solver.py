@@ -87,18 +87,3 @@ def solve_wrapper(arr):
         return ans, "Solved in %.4fs" % (time.time() - start)
     except:
         return None, None
-
-if __name__ == "__main__":
-    grid = np.array([[5,3,0,0,7,0,0,0,0],
-                    [6,0,0,1,9,5,0,0,0],
-                    [0,9,8,0,0,0,0,6,0],
-                    [8,0,0,0,6,0,0,0,3],
-                    [4,0,0,8,0,3,0,0,1],
-                    [7,0,0,0,2,0,0,0,6],
-                    [0,6,0,0,0,0,2,8,0],
-                    [0,0,0,4,1,9,0,0,5],
-                    [0,0,0,0,8,0,0,7,9]], dtype=np.uint8)
-
-    solution, time = solve_wrapper(grid)
-    print(solution)
-    print(time)
